@@ -24,19 +24,21 @@ digital-literacy-project/
 ├── task-2-portfolio/
 │   ├── Github-profile.png
 │   ├── Kaggle-profile.png
-│   └── Linkedln-profile.png
+│   └── LinkedIn-profile.png
 │
 ├── task-3-platforms/
-│   ├── hackerrank.png
-│   ├── google-form-response.png
-│   └── google-form.png 
+│   ├── HackerRank.png
+│   ├── google-form.png
+│   ├── google-form (2).png
+│   └── google-form-response.png
 │
-├── task-4-email-etiquette/
-│   └── Document 6.pdf
+├── task-4/
+│   ├── Document 8.pdf
+│   └── Document 9.pdf
 │
-├── task-5-cybercrime/
-│   |── Document 3.pdf
-│   
+├── task-5/
+│   ├── Document 10.pdf
+│   └── Document 11.pdf
 │
 └── README.md
 ```
